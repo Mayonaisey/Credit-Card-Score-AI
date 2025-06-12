@@ -58,5 +58,5 @@ To build a credit scoring model that can:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mayonaisey/Credit-Card-Score-AI.git
+   git clone https://github.com/Mayonaisey/Credit-Card-Score-AI.git
    cd Credit-Card-Score-AI
